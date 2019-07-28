@@ -6,5 +6,4 @@ In order to see this project you just have to download this whole repository in 
 <br/><br/>
 Happy Learning!
 
-
-Licensed under the MIT License.
+Licensed under the [MIT License](LICENSE).
